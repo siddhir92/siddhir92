@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siddhi</h1>
-<h3 align="center">A Product designer and web developer passionate about inclusive design. This is the place I open source stuff and break things👀</h3>
+
 Since 2019 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code.✨
+
+"Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 
 - 🔭 I’m currently working on [Trisetra that uses 3D magic to make your home spatially aware so you can easily virtually decorate your own space with real products from top brands.](https://www.trisetra.com/)
 
