@@ -12,7 +12,7 @@ Since 2019 I've been living and breathing web development and creating modern an
 
 - 📫 How to reach me **siddhirajesh2954@gmail.com**
 
-- ⚡ Fun fact **Outside of work I'm a amateur cook and a travel junkie👾**
+- ⚡ Fun fact **Outside of work I'm a amateur cook and a travel junkie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
