@@ -6,7 +6,7 @@ Since 2019 I've been living and breathing web development and creating modern an
 
 - 🔭 I’m currently working on [Trisetra that uses 3D magic to make your home spatially aware so you can easily virtually decorate your own space with real products from top brands.](https://www.trisetra.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/siddhimore2](https://www.behance.net/siddhimore2) and https://github.com/siddhir92
+- 👨‍💻 All of my projects are available at [https://www.behance.net/siddhimore2](https://www.behance.net/siddhimore2) (Design) and https://github.com/siddhir92 (Coding)
 
 - 📝 I regularly write articles on [https://medium.com/@siddhimore](https://medium.com/@siddhimore)
 
